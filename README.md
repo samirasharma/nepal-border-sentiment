@@ -3,7 +3,7 @@
 Fine-tuned XLM-RoBERTa on Nepali/English YouTube comments about the Nepal–India border dispute.
 
 ## Results
-- 71% accuracy on gold-standard eval set (300 manually verified comments)
+- 50% accuracy on gold-standard eval set (300 manually verified comments)
 - 3-class classification: positive / neutral / negative
 
 ## Pipeline
